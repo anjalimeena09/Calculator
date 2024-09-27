@@ -1,0 +1,31 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  .st{
+    text-align:center;
+  }
+  .butcen{
+    margin: auto;
+  }
+  .flex{
+    display:flex;
+    /* justify-content: center;
+      align-items: center; */
+  }
+  .flex-clm{
+    flex-direction:column
+  }
+  .item-center{
+    align-items:center;
+  }
+  .row{
+    margin: 8px 0;
+  }
+  .row input{
+      font-size:20px;
+      width:270px;
+      margin: 0;
+      padding: 8px 0px;
+      border-radius: 10px;
+  }
